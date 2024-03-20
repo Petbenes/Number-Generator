@@ -1,0 +1,10 @@
+C:\Users\benesmartin\source\repos\GenerátorC4\GenerátorC4\bin\Debug\GenerátorC4.exe.config
+C:\Users\benesmartin\source\repos\GenerátorC4\GenerátorC4\bin\Debug\GenerátorC4.exe
+C:\Users\benesmartin\source\repos\GenerátorC4\GenerátorC4\bin\Debug\GenerátorC4.pdb
+C:\Users\benesmartin\source\repos\GenerátorC4\GenerátorC4\obj\Debug\GenerátorC4.csproj.AssemblyReference.cache
+C:\Users\benesmartin\source\repos\GenerátorC4\GenerátorC4\obj\Debug\GenerátorC4.Form1.resources
+C:\Users\benesmartin\source\repos\GenerátorC4\GenerátorC4\obj\Debug\GenerátorC4.Properties.Resources.resources
+C:\Users\benesmartin\source\repos\GenerátorC4\GenerátorC4\obj\Debug\GenerátorC4.csproj.GenerateResource.cache
+C:\Users\benesmartin\source\repos\GenerátorC4\GenerátorC4\obj\Debug\GenerátorC4.csproj.CoreCompileInputs.cache
+C:\Users\benesmartin\source\repos\GenerátorC4\GenerátorC4\obj\Debug\GenerátorC4.exe
+C:\Users\benesmartin\source\repos\GenerátorC4\GenerátorC4\obj\Debug\GenerátorC4.pdb
